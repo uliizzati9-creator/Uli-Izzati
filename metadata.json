@@ -1,0 +1,6 @@
+{
+  "name": "Anekdot Detective — Sekolah Rahasia Pemburu Bahasa",
+  "description": "Aplikasi pembelajaran interaktif Teks Anekdot bertema detektif investigasi bahasa dengan sistem penilaian otomatis skala 0–100 dan evaluasi KKTP 75.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
